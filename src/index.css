@@ -1,7 +1,9 @@
 .styled-text {
-  color: red;
-} 
+    color: red;
+}
 
-.border-box{
-  border: 1px solid black;
+.border-box {
+    border: 1px solid black;
+    padding: 10px 5px;
+    margin-bottom: 10px;
 }
